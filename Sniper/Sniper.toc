@@ -14,12 +14,8 @@ Libs\AceDB-2.0\AceDB-2.0.lua
 Libs\AceDebug-2.0\AceDebug-2.0.lua
 Libs\AceLocale-2.2\AceLocale-2.2.lua
 
-Libs\Babble-Class-2.2\Babble-Class-2.2.lua
-Libs\Crayon-2.0\Crayon-2.0.lua
-Libs\Compost-2.0\Compost-2.0.lua
 Libs\Dewdrop-2.0\Dewdrop-2.0.lua
 Libs\FuBarPlugin-2.0\FuBarPlugin-2.0.lua
 Libs\Tablet-2.0\Tablet-2.0.lua
-Libs\HitButtonLib-2.0\HitButtonLib.lua
 
 Sniper.lua
