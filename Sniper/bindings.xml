@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="SNIPER_SNIPE" header="SNIPER">Sniper:Snipe()</Binding>
+	<Binding name="SNIPER_ADDCURRENTTARGET">Sniper:AddCurrentTarget()</Binding>
+	<Binding name="SNIPER_REMOVECURRENTTARGET">Sniper:RemoveCurrentTarget()</Binding>
+</Bindings>
